@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimasVerzbickas
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning DA at the Turing College
-- 📫 You can reach me by email or linkendin
+- 📫 You can reach me by  https://www.linkedin.com/in/simas-verzbickas/
 - 😄 Pronouns: Lithuanian, Engish, Russian
 
 
